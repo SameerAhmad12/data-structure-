@@ -1,2 +1,2 @@
 # data-structure-
-programs on different data structures
+programs of different data structures
